@@ -9,7 +9,9 @@
 			<Item Name="Initialization VI.vi" Type="VI" URL="../Initialization VI.vi"/>
 			<Item Name="Main Page.vi" Type="VI" URL="../Main Page.vi"/>
 		</Item>
-		<Item Name="SubVIs" Type="Folder"/>
+		<Item Name="SubVIs" Type="Folder">
+			<Item Name="RunTimeMenu - Add Channel.vi" Type="VI" URL="../RunTimeMenu - Add Channel.vi"/>
+		</Item>
 		<Item Name="Types" Type="Folder"/>
 	</Item>
 </Library>
